@@ -1,0 +1,5 @@
+com\wesley\aws\repository\EmpregadosRepositorio.class
+com\wesley\aws\entity\Empregado.class
+com\wesley\aws\entity\Endereco.class
+com\wesley\aws\config\DynamoDBConfig.class
+com\wesley\aws\CrudApplication.class
